@@ -13,7 +13,7 @@ Before running the project, ensure that your system has the following tools:
 The project is divided into several files:
 * **MyContainer.hpp** – Header file containing the template declaration of the `MyContainer` class and all its iterator implementations.
 * **test.cpp** – Unit test file using the doctest framework to test all container operations and iterators.
-* **Demo.cpp** – A demonstration file that showcases how to use the `MyContainer` class and its various iterators.
+* **main.cpp** – A demonstration file that showcases how to use the `MyContainer` class and its various iterators.
 * **doctest.h** – Testing framework header file for unit testing.
 * **Makefile** – A Makefile for compiling the project, running tests, and memory leak detection.
 
